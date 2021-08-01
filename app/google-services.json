@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119589568455",
+    "project_id": "outlet-cdd1f",
+    "storage_bucket": "outlet-cdd1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119589568455:android:4dccb1076c02a5bc8a23e2",
+        "android_client_info": {
+          "package_name": "com.example.outlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119589568455-2ci0k1r62udcecs28i40p0toangcsc2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaOyEAFkxdWuQzOlyGwYVCKGhzlHUqPaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119589568455-2ci0k1r62udcecs28i40p0toangcsc2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
